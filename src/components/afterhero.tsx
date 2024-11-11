@@ -71,7 +71,8 @@ const AfterHero = () => {
                     <button className='font-semibold border-2 px-3 border-orange-300 hover:text-orange-500 hover:border-orange-500'>Hot</button>
                     <button className='font-semibold border-2 px-3 ml-5 border-orange-300 hover:text-orange-500 hover:border-orange-500'>Cold</button>
                     </div>
-                <div className='bg-orange-500 rounded-full p-2 text-2xl text-white mt-2'><BsCartFill />
+                <div className='bg-orange-500 rounded-full p-2 text-2xl text-white mt-2'>
+                    <BsCartFill />
                 </div>
             </div>
         </div>

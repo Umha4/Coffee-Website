@@ -29,7 +29,9 @@ const Header = () => {
         </div>
         </div>
         <div className='border-2 rounded-2xl flex w-60 gap-1 items-center bg-white'>
-       <div className='text-2xl ml-1 '> <IoSearch /></div>
+       <div className='text-2xl ml-1 '> 
+        <IoSearch />
+        </div>
             <input  className='py-2 px-2 rounded-r-2xl' type="text" placeholder='capaciano'/>
         </div>
     </main>
