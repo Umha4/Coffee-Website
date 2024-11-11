@@ -11,7 +11,8 @@ const AfterHero = () => {
         </div>
         <div className='flex h-[350px] gap-10 mx-32 rounded-2xl mt-8'>
         <div className=' flex-1 bg-white shadow-orange-200 shadow-lg'>
-            <div className='mx-4 mt-4'><Image
+            <div className='mx-4 mt-4'>
+                <Image
             className='h-120 w-120 rounded-lg mt-6'
             height={500}
             width={500}
@@ -26,12 +27,14 @@ const AfterHero = () => {
                     <button className='font-semibold border-2 px-3 border-orange-300 hover:text-orange-500 hover:border-orange-500'>Hot</button>
                     <button className='font-semibold border-2 px-3 ml-5 border-orange-300 hover:text-orange-500 hover:border-orange-500'>Cold</button>
                     </div>
-                <div className='bg-orange-500 rounded-full p-2 text-2xl text-white mt-2'><BsCartFill />
+                <div className='bg-orange-500 rounded-full p-2 text-2xl text-white mt-2'>
+                    <BsCartFill />
                 </div>
             </div>
         </div>
         <div className=' flex-1 bg-white shadow-orange-200 shadow-lg'>
-        <div className='mx-4 mt-4'><Image
+        <div className='mx-4 mt-4'>
+            <Image
             className='h-120 w-120 rounded-lg mt-6'
             height={500}
             width={500}
@@ -46,12 +49,14 @@ const AfterHero = () => {
                     <button className='font-semibold border-2 px-3 border-orange-300 hover:text-orange-500 hover:border-orange-500'>Hot</button>
                     <button className='font-semibold border-2 px-3 ml-5 border-orange-300 hover:text-orange-500 hover:border-orange-500'>Cold</button>
                     </div>
-                <div className='bg-orange-500 rounded-full p-2 text-2xl text-white mt-2'><BsCartFill />
+                <div className='bg-orange-500 rounded-full p-2 text-2xl text-white mt-2'>
+                    <BsCartFill />
                 </div>
             </div>
         </div>
         <div className=' flex-1 bg-white shadow-orange-200 shadow-lg'>
-        <div className='mx-4 mt-4'><Image
+        <div className='mx-4 mt-4'>
+            <Image
             className='h-120  rounded-lg mt-7'
             height={500}
             width={500}
